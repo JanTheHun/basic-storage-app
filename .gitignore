@@ -1,3 +1,7 @@
+**/node_modules
+**/lib
+**/excel-store-uploads
+
 # Logs
 logs
 *.log
